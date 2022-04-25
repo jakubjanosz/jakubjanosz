@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently learning basics of using Python libraries in order to develop my skills in data science field.
 
 <!--
 **jakubjanosz/jakubjanosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
